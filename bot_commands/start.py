@@ -1,6 +1,6 @@
 """Стартовая команда бота."""
 
 
-def start() -> None:
+async def start() -> None:
     """Логика команды /start."""
     ...
